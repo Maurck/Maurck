@@ -6,9 +6,9 @@ Mi nombre es Mauricio Linares, estudiante de ingeniería de software de la Unive
 
 ## Información acerca de mi
 
-Soy un apasionado del desarrollo indie de videojuegos en Unity, también soy analista programador especializado en desarrollo web backend y me interesa la psicología como el entendimiento del compotamiento humano.
+Soy un apasionado del desarrollo indie de videojuegos en Unity, también soy analista programador especializado en desarrollo web backend y me interesa la psicología como el entendimiento del comportamiento humano.
 
-Ademas de lo compartido, tambien me interesa
+Ademas de lo compartido, tambien me interesa:
 
 - Bailar 🕺
 - Cantar 🎤
