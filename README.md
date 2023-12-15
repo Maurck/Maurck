@@ -1,12 +1,12 @@
 # **Hola! 👋😄**
 
-Mi nombre es Mauricio Linares, estudiante de ingeniería de software de la Universidad Nacional Mayor de San Marcos, en Perú. 🇵🇪
+Mi nombre es Mauricio Linares, bachiller de ingeniería de software de la Universidad Nacional Mayor de San Marcos, en Perú. 🇵🇪
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Maurck&theme=tokyonight&show_icons=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Información acerca de mi
 
-Soy un apasionado del desarrollo indie de videojuegos en Unity, también soy analista programador especializado en desarrollo web backend y me interesa la psicología como el entendimiento del comportamiento humano.
+Cuento con experiencia en el desarrollo web fullstack además del desarrollo de videojuegos y me interesa la psicología como el entendimiento del comportamiento humano.
 
 Ademas de lo compartido, tambien me interesa:
 
